@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Face Biometrics
 - ⚡My Experties 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymoundekar18&langs_count=8&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaymoundekar18&count_private=true&hide=tex,Rich%20Text%20Format&langs_count=10&layout=compact&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true&exclude_repo=Modellierung">
 </a>
