@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Face Biometrics
+- ⚡My Experties 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymoundekar18&langs_count=8&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
+</a>
